@@ -1,8 +1,9 @@
 My Grocery List
-- Apples
-- Bananas
-- Potato Chips
-- Eggs
-- Butter
+- Tea
 - Sugar
-- Lemons
+- Milk
+- Vanilla syrup
+- Pasta
+- Cheese
+- Flour
+- Butter
